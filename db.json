@@ -1,0 +1,29 @@
+{
+  "Users": [
+    {
+      "id": 2,
+      "name": "Saqib123",
+      "username": "sangi",
+      "email": "jam890@gmail.com",
+      "phone": "03412135236"
+    },
+    {
+      "name": "salmab",
+      "email": "rashir@gamil.com",
+      "phone": "887766576",
+      "id": 4
+    },
+    {
+      "name": "salmab",
+      "email": "",
+      "phone": "",
+      "id": 5
+    },
+    {
+      "name": "Muhammad Mursaleen ",
+      "email": "volel75570@othao.com",
+      "phone": "03236989128",
+      "id": 6
+    }
+  ]
+}
